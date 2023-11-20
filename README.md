@@ -1,0 +1,2 @@
+# BadCasualStore
+Store Web
